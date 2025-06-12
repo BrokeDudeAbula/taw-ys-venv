@@ -7,7 +7,7 @@ Its look like
 
 ### Usage
 
-``` python
+``` shell
 # clone repo
 git clone git@github.com:BrokeDudeAbula/taw-ys-venv.git
 
